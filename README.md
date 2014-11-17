@@ -1,4 +1,4 @@
-mathesko
+Mathesko
 ========
 
 Mathesko is a portmanteau of the greek words `mathesis` and `methusko`. 
